@@ -72,3 +72,8 @@ showDialog(
 <img src="https://user-images.githubusercontent.com/7392658/141606774-8193f4ee-e40d-49fc-b081-261c72325bf8.png">
 
 Details in [example](https://github.com/mchome/flutter_colorpicker/tree/master/example) folder.
+
+Forker's reason for forking:
+- To allow show or hide of ColorIndicator (portrait & landscape mode)
+- To add functionality that if ColorIndicator is hidden, allow sliders to use full width of parent widget or container.
+- To allow adjustable height of ColorIndicator and Slider's height.
